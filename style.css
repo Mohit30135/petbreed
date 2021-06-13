@@ -3,9 +3,9 @@ body{
     background: url('bh.jpg') no-repeat top left ;
     background-size: 1910px;
 }
-b{
+.red{
     
-    color:rgb(10, 6, 0);
+    color: rgb(10, 6, 0);
 }
 h1{
 color: black;
